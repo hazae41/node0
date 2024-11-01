@@ -1,0 +1,9 @@
+[submodule "mods/mainnet"]
+	path = mods/mainnet
+	url = https://github.com/hazae41/network-json-rpc-guard.git
+[submodule "mods/signal"]
+	path = mods/signal
+	url = https://github.com/hazae41/network-signaler.git
+[submodule "mods/tcp"]
+	path = mods/tcp
+	url = https://github.com/hazae41/network-ws-to-tcp-proxy.git
